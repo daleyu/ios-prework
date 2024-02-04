@@ -5,7 +5,7 @@ Submitted by: **Dale Yu**
 Color Changer is an app that changes the background color to a random color when pressing a button.
 
 Time spent: **.2** hours spent in total
-<img src="gif-ios.gif">
+<img src="gif_ios.gif">
 ## Required Features
 
 The following **required** functionality is completed:
